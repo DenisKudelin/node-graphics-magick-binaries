@@ -1,0 +1,10 @@
+{
+  "name": "graphics-magick-binaries",
+  "version": "1.0.1",
+  "license": "MIT",
+  "author": "Graphics Magick",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DenisKudelin/graphics-magick-binaries.git"
+  }
+}
